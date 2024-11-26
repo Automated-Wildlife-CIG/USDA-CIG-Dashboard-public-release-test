@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="layout1svg" data-name="layout1svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="5" y="4" width="53" height="38"/>
+  <rect class="cls-1" x="40.5" y="40.5" width="11" height="24" transform="translate(98.5 6.5) rotate(90)"/>
+  <rect class="cls-1" x="11.5" y="40.5" width="11" height="24" transform="translate(69.5 35.5) rotate(90)"/>
+</svg>

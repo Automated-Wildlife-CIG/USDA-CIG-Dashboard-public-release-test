@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Time",
+    "type": "date",
+    "format": "%m/%d/%Y %H:%M"
+  },
+  {
+    "name": "Temperature (degC)",
+    "type": "number"
+  },
+  {
+    "name": "Light",
+    "type": "number"
+  },
+  {
+    "name": "Detections per Minute",
+    "type": "number"
+  }
+]

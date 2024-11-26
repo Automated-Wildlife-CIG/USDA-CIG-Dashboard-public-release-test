@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-54bd0ddd-ccc9-42c5-aea4-c15695e41c36" data-name="layout-1-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 63">
+  <defs>
+    <style>
+      .uuid-f4963f4c-faff-4446-97f8-f4e3e743e0ec {
+        fill: #ccc;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="uuid-f4963f4c-faff-4446-97f8-f4e3e743e0ec" x="4" y="5" width="38" height="53"/>
+  <rect class="uuid-f4963f4c-faff-4446-97f8-f4e3e743e0ec" x="47" y="5" width="11" height="24"/>
+  <rect class="uuid-f4963f4c-faff-4446-97f8-f4e3e743e0ec" x="47" y="34" width="11" height="24"/>
+</svg>
